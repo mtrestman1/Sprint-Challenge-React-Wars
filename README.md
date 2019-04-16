@@ -8,7 +8,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your PM and Instructor in your cohort help channel on Slack. Your work reflects your proficiency ReactJS Fundamentals and your command of the concepts and techniques in the Function Components and Class Components.
+You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your PM and Instructor in your cohort help channel on Slack. Your work reflects your proficiency ReactJS Fundamentals and your command of the concepts and techniques in the Function Components and Class Components..
 
 You have three hours to complete this challenge. Plan your time accordingly.
 
@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+ReactJS is used to create complex user interfaces. React was created to solve a problem with the abundance of data displayed on Facebook. By breaking everything into components, we have reusable code that allows for a much easier time than coding everything out with plain JS. 
+
 - [ ] What does it mean to _think_ in react?
+
+Thinking in react means to break things down into components. 
 
 - [ ] Describe state.
 
+State is the data that components hold, and when we want to pass state to another componenet we use props. 
+
 - [ ] Describe props.
+
+Props is how we pass the data around from State to different components.
 
 ## Project Set Up
 
